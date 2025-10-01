@@ -24,6 +24,15 @@ EOF
 cat > requirements.txt << 'EOF'
 # Update Testing Framework
 pytest>=8.0.0
+# Optional: For enhanced development experience
+# pathlib (built-in since Python 3.4)
+# json (built-in)
+# csv (built-in)
+# subprocess (built-in)
+# os (built-in)
+# sys (built-in)
+# Note: This assignment is designed to use only Python standard library
+# to focus on core programming concepts without external dependencies
 EOF
 
 echo "Creating CSV w/ 8 Records"
