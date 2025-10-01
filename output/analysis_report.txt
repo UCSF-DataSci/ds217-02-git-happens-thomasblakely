@@ -1,5 +1,16 @@
-Outputting data_analysis.py Formatted Report
+Outputting data_analysis_functions.py Formatted Report
     Number of Students: 8
-    Average Grade: 79.9
-    Number of Math Students: 1
-    
+    Max Grade: 96
+    Min Grade: 59
+    Avg Grade: 79.9
+    Subject Count:
+        Science: 2
+        History: 2
+        English: 3
+        Math: 1
+    Grade Distribution:
+        A: 2 (25.0%)
+        B: 2 (25.0%)
+        C: 2 (25.0%)
+        D: 1 (12.5%)
+        F: 1 (12.5%)
