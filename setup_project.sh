@@ -24,7 +24,7 @@ EOF
 cat > requirements.txt << 'EOF'
 # Update Testing Framework
 pytest>=8.0.0
-# Optional: For enhanced development experience
+# Optional: For enhanced development experience | From initial commit requirements.txt
 # pathlib (built-in since Python 3.4)
 # json (built-in)
 # csv (built-in)
@@ -38,7 +38,7 @@ EOF
 echo "Creating CSV w/ 8 Records"
 cat > data/students.csv << 'EOF'
 name,age,grade,subject
-Mikey,14,74,Science 
+Alice,14,74,Science 
 Brandon,12,89,History
 Mouth,13,59,English
 Chunk,13,67,Science
