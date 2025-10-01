@@ -2,7 +2,7 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=20697592)
 # Assignment 02: Git Workflow, CLI Automation, and Python Data Processing
 
-**Due Date**: [To be set by instructor]
+**Due Date**: October 1, 2025
 **Points**: 20 total
 **Estimated Time**: 3-4 hours
 
@@ -11,6 +11,10 @@
 - `requirements.txt` - Python requirements file (no external packages needed)
 - `TIPS.md` - Troubleshooting guide for common issues
 - `.github/test/test_assignment.py` - Automated tests for grading
+
+## User Note
+
+For this assignment, I have played around with developing multiple features in my branches. An example of this can be seen in some of my earliest commits. Based on what I heard was needed to be included and for streamlining purposes, I have excluded these additional features from being included in the final commits of this project. In addition, I have decided to leave this README.md mostly untouched, as details were not provided on what should be added as additional details on top of the already comprehensive overview provided.
 
 ## Learning Objectives
 
@@ -259,8 +263,8 @@ cat output/analysis_report.txt
 
 ## Due Date
 
-**Assignment due**: [To be set by instructor]  
-**Late submissions**: [Policy to be set by instructor]
+**Assignment due**: October 1, 2025
+**Late submissions**: Please contact instructor and/or TA for further details
 
 ---
 
