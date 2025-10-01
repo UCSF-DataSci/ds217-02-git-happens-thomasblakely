@@ -1,6 +1,6 @@
 # Update Testing Framework
 pytest>=8.0.0
-# Optional: For enhanced development experience
+# Optional: For enhanced development experience | From initial commit requirements.txt
 # pathlib (built-in since Python 3.4)
 # json (built-in)
 # csv (built-in)
