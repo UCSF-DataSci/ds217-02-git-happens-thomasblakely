@@ -9,7 +9,7 @@
 
 ## Project Overview
 
-For this project we were assigned to do 4 tasks: 
+For this project we were assigned to do 4 Datasci tasks: 
    1) Creation of 2 branches: `feature/project-scaffold` & `feature/data-processing`
    2) Development of an automated project setup shell file, `setup_project.sh`, in branch `feature/project-scaffold`
    3) Development of 2 data processing scripts: `data_analysis.py` & `data_analysis_functions.py`, in branch `feature/data-processing`
